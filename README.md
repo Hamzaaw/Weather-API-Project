@@ -1,32 +1,25 @@
-## European Weather Forecast Website
+# European Weather Forecast Website
 
-Overview
+## Overview
 This project involves building a website that provides a 7-day weather forecast for major European cities. The project aims to support a European travel agency in increasing bookings by offering visitors real-time weather information.
 
-The website is built using HTML, JavaScript, and JSON to request, process, and present weather data.
-It utilizes the 7Timer API, a free and accessible weather forecast service that does not require API keys.
+The website is built using HTML, JavaScript, and JSON to request, process, and present weather data. It utilizes the 7Timer API, a free and accessible weather forecast service that does not require API keys.
 
+### Technologies Used
+- HTML: Forms the structure and content of the webpage.
+- JavaScript: Used to interact with the 7Timer API and handle data retrieval.
+- CSS & Bootstrap: Enhances the visual styling and layout of the webpage.
 
-
-HTML: Forms the structure and content of the webpage.
-
-JavaScript: Used to interact with the 7Timer API and handle data retrieval.
-
-CSS & Bootstrap: Enhances the visual styling and layout of the webpage.
-
-
-
-
+## Getting Started
 To explore this project and its functionalities, follow these steps:
 
-Clone this repository to your local machine using the following command:
-
+1. Clone this repository to your local machine using the following command:
+   
    ```bash
-git clone https://github.com/Hamzaaw/Weather-API-Project
-   ```
+   git clone https://github.com/Hamzaaw/Weather-API-Project
 
 
-Open the index.html file in your  web browser to access the weather forecast webpage.
+2. Open the index.html file in your  web browser to access the weather forecast webpage.
 
 If you encounter a CORS (Cross-Origin Resource Sharing) policy error, you can resolve it by serving your files using a local server. Here's how to do it based on your preferred tool:
 
@@ -45,7 +38,6 @@ python -m http.server
 Open your browser and go to http://localhost:8000.
 
 
-Acknowledgments
 Special thanks to the Coursera Project Network for the project inspiration and guidance.
 https://www.coursera.org/projects/showcase-build-a-website-api-html-javascript-json
 
