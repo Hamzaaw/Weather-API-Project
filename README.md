@@ -1,4 +1,5 @@
-European Weather Forecast Website
+## European Weather Forecast Website
+
 Overview
 This project involves building a website that provides a 7-day weather forecast for major European cities. The project aims to support a European travel agency in increasing bookings by offering visitors real-time weather information.
 
