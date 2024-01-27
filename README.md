@@ -14,8 +14,6 @@ To explore this project and its functionalities, follow these steps:
 
 Clone this repository to your local machine using the following command:
 
-bash
-Copy code
 git clone https://github.com/Hamzaaw/Weather-API-Project
 
 Open the index.html file in your  web browser to access the weather forecast webpage.
@@ -40,4 +38,3 @@ Open your browser and go to http://localhost:8000.
 Acknowledgments
 Special thanks to the Coursera Project Network for the project inspiration and guidance.
 https://www.coursera.org/projects/showcase-build-a-website-api-html-javascript-json
-Feel free to add more details, contributors, and customize the license information as needed.
