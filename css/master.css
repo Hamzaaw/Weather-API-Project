@@ -1,0 +1,40 @@
+@import "./components/form.css";
+@import "./utilities.css";
+@import "./typo.css";
+@import "./components/footer.css";
+@import "./components/swiper.css";
+@import "./components/results.css";
+
+/* general CSS */
+body {
+  position: relative;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #fff; /* Fallback background color */
+  background-image: linear-gradient(to left, #040005 0%, #00020b 100%),
+    radial-gradient(
+      88% 271%,
+      rgba(255, 255, 255, 0.25) 0%,
+      rgba(254, 254, 254, 0.25) 1%,
+      rgba(0, 0, 0, 0.25) 100%
+    ),
+    radial-gradient(
+      50% 100%,
+      rgba(255, 255, 255, 0.3) 0%,
+      rgba(0, 0, 0, 0.3) 100%
+    );
+  background-blend-mode: normal, lighten, soft-light;
+  font-family: "Poppins", sans-serif !important;
+  font-size: 14px;
+}
+main {
+  min-height: 100vh;
+  width: 100%;
+  margin: 0 auto;
+}
+
+main .container {
+  background-color: #fff;
+  overflow: hidden;
+}
