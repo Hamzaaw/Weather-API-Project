@@ -48,3 +48,6 @@ Open your browser and go to http://localhost:8000.
 Acknowledgments
 Special thanks to the Coursera Project Network for the project inspiration and guidance.
 https://www.coursera.org/projects/showcase-build-a-website-api-html-javascript-json
+
+
+<img width="1415" alt="Screenshot 2024-01-27 at 8 22 36 PM" src="https://github.com/Hamzaaw/Weather-API-Project/assets/137000351/9c59ecd9-b028-450f-af32-e63ef7bd9711">
