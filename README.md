@@ -24,15 +24,13 @@ To explore this project and its functionalities, follow these steps:
 If you encounter a CORS (Cross-Origin Resource Sharing) policy error, you can resolve it by serving your files using a local server. Here's how to do it based on your preferred tool:
 
 Using Python's http.server (if Python is installed):
-Open a terminal or command prompt.
+1. Open a terminal or command prompt.
+2. Navigate to the directory of your project.
+3. Run the following command:
 
-Navigate to the directory of your project.
+   ```bash
+   python -m http.server
 
-Run the following command:
-
-bash
-Copy code
-python -m http.server
 (Use python3 instead of python if you're on macOS or Linux).
 
 Open your browser and go to http://localhost:8000.
